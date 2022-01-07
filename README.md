@@ -1,3 +1,6 @@
+Used React to fetch images from unsplash api and display in browser
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
